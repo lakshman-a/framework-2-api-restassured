@@ -1,5 +1,0 @@
-com\upskill\runners\TestRunnerSmoke.class
-com\upskill\stepdefinitions\ApiSteps.class
-com\upskill\stepdefinitions\DatabaseSteps.class
-com\upskill\runners\TestRunner.class
-com\upskill\hooks\Hooks.class
