@@ -1,0 +1,7 @@
+{
+    "name": "John Automation",
+    "username": "johnauto",
+    "email": "john.auto@test.com",
+    "phone": "1-555-123-4567",
+    "id": 11
+}

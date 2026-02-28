@@ -1,0 +1,6 @@
+{
+    "userId": 1,
+    "title": "Automation Test Post",
+    "body": "This post was created by the API automation framework",
+    "id": 101
+}
